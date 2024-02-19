@@ -1,0 +1,31 @@
+
+.container{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid gray;
+    margin: 0 auto;
+    flex-wrap: wrap;
+
+
+}
+.item{
+    height: 200px;
+    width: 200px;
+    border: 2px solid red;
+    /* color: aliceblue; */
+    font-size: 20px;
+}
+.item-1{
+    background-color:#F72798;
+}
+.item-2{
+    background-color:#7F27FF;
+}
+.item-3{
+    background-color:#944E63;
+}
+.item-4{
+    background-color:#FDF0D1;
+}
